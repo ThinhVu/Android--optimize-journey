@@ -72,7 +72,7 @@ First thing first, I need to see what's inside the Apk.
 
 I don't know why the app took 14 MB in size (maybe it included Android Studio's junk code: breakpoints, etc, ... )
 
-The APK size is 4.3 MB in size as image below (corresponding to [this commit](https://github.com/ThinhVu/Yeeeeet/commit/17c9e09566ace0689b7c34c112110e32396a4efc))
+The APK size is 4.3 MB in size as image above (corresponding to [this commit](https://github.com/ThinhVu/Yeeeeet/commit/17c9e09566ace0689b7c34c112110e32396a4efc))
 
 As you can see, there is a lot of things included in the APK (androidx, kotlin, java9, okhttp3, okio,...)
 
