@@ -1,7 +1,7 @@
 
 ## Android optimize journey
 
-This is how I optimize my Android app from `4.3 MB` to `23.3 KB` in size.
+This is how I reduce my Android app from `4.3 MB` to `23.3 KB` in size.
 
 ### I'm gonna to make Yeeeeet
 
